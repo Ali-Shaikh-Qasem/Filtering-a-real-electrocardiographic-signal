@@ -1,1 +1,1 @@
-# Filtering-a-real-electrocardiographic-signal
+This project is an application of digital signals processing. It's about filtering a raw electrocardiograph signal to be able to perform some opertaions like peak detection, feature extraction and classification.
